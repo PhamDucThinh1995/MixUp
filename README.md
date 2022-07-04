@@ -14,7 +14,7 @@ While the number of data we have is limited, we can always try to slightly alter
 > Original github: https://github.com/ttchengab/mixup
 
 ## Dataset: 
-CIFAR-10
+CIFAR-10 - link Kaggle: https://www.kaggle.com/datasets/pankrzysiu/cifar10-python
 
 ## Environment:
 Google Colab => you can upload directly this notebook on your colab and run.
